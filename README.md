@@ -44,3 +44,5 @@ Some types of projects included in this portfolio:
 🧹 Data Cleaning & Preprocessing
 
 📝 Mini Case Studies
+
+If you wanna try it with yourself using this link to access the datasets https://docs.google.com/spreadsheets/d/1uceV2Olui1Pee4zIyfNwZG52kSGKrE-m5SPNjGaljNo/edit?usp=sharing
