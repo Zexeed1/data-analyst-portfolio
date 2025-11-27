@@ -1,7 +1,7 @@
 # 📊 Data Analyst Portfolio
 
 Welcome to my Data Analyst Portfolio Repository.  
-This repository highlights a selection of analytical projects that demonstrate my ability to work across the entire data lifecycle—data collection, cleaning, exploration, visualization, and insight communication to support data-driven decision-making.
+This repository highlights a selection of analytical projects that demonstrate my ability to work across the entire data lifecycle data collection, cleaning, exploration, visualization, and insight communication to support data-driven decision-making.
 
 ---
 
