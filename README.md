@@ -68,8 +68,13 @@ Preview of the analyses:
 
 ![Preview](./assets/top10countries.png)
 
-📄 **Download PDF lengkap:**  
-[Klik di sini](./reports/top10countries.pdf)
+📄 **Download PDF:**  
+[Click Here!](./reports/top10countries.pdf)
+
+![preview](.assets/MAU.png)
+
+📄 **Download PDF:**  
+[Click Here!](./reports/mau_ch.pdf)
 ---
 
 ## 📈 GitHub Activity & Profile Stats
