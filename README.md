@@ -62,12 +62,14 @@ The dataset used in some of the projects can be accessed here:
 
 ---
 
-## 📌 Preview Example
+## 📌 Preview
 
-Below is an example output from one of the analyses:
+Preview of the analyses:
 
 ![Preview](./assets/top10countries.png)
 
+📄 **Download PDF lengkap:**  
+[Klik di sini](./reports/top10countries.pdf)
 ---
 
 ## 📈 GitHub Activity & Profile Stats
