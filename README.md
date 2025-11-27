@@ -71,10 +71,11 @@ Preview of the analyses:
 📄 **Download PDF:**  
 [Click Here!](./reports/top10countries.pdf)
 
-![Preview](.assets/mau_reports.png)
+![Preview](./assets/mau_reports.png)
 
 📄 **Download PDF:**  
 [Click Here!](./reports/mau_ch.pdf)
+
 ---
 
 ## 📈 GitHub Activity & Profile Stats
