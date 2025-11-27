@@ -1,51 +1,92 @@
 # 📊 Data Analyst Portfolio
 
-Welcome to my Data Analyst portfolio repository!
-This repository contains a collection of data analysis projects that I’ve worked on as part of my journey to improve my skills in data processing, visualization, and generating actionable insights for decision-making.
+Welcome to my Data Analyst Portfolio Repository.  
+This repository highlights a selection of analytical projects that demonstrate my ability to work across the entire data lifecycle—data collection, cleaning, exploration, visualization, and insight communication to support data-driven decision-making.
 
-🎯 Objectives
+---
 
-This portfolio is created to document my learning process, technical abilities, and hands-on experience in performing data analysis. Each project aims to demonstrate my skills in:
+## 🎯 Objectives
 
-📌 Collecting and cleaning data
+This portfolio is designed to showcase my technical expertise and analytical thinking. Each project reflects my proficiency in:
 
-📌 Performing exploratory data analysis (EDA)
+- 📌 Collecting, cleaning, and preparing raw datasets  
+- 📌 Conducting Exploratory Data Analysis (EDA)  
+- 📌 Applying SQL and Python for data extraction and analysis  
+- 📌 Designing informative and visually compelling dashboards  
+- 📌 Presenting insights with clarity and business relevance  
 
-📌 Using SQL, Python, and BI tools
+---
 
-📌 Building visualizations and dashboards
+## 🛠️ Tools & Technologies
 
-📌 Communicating findings and insights clearly and data-driven
+I use a diverse set of tools throughout my projects, including:
 
-🛠️ Tools & Technologies
+- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+- 🗄️ **SQL** (MySQL, PostgreSQL, Google BigQuery)  
+- 📊 **Excel / Google Sheets**  
+- 📈 **Tableau / Power BI**  
+- 📘 **Jupyter Notebook**
 
-Here are the tools and programming languages I use in these projects:
+---
 
-🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
+## 📁 Project Structure
 
-🗄️ SQL (MySQL / PostgreSQL / BigQuery)
+This repository is organized to reflect a real-world data workflow:
 
-📊 Excel / Google Sheets
+```
+├── assets/               # Images, charts, figures for README previews  
+├── datasets/             # Raw and cleaned datasets used in analyses  
+├── notebooks/            # Jupyter notebooks for each project  
+├── dashboards/           # Tableau / Power BI visualization files  
+└── reports/              # PDF summaries and key findings
+```
 
-📈 Tableau / Power BI
+---
 
-📘 Jupyter Notebook
+## 📁 Project Categories
 
-📁 Project Categories
+You will find a variety of analytical work, including:
 
-Some types of projects included in this portfolio:
+- 🔎 **Exploratory Data Analysis (EDA)**  
+- 📊 **Interactive Dashboards**  
+- 📈 **Business Metrics & KPI Analysis**  
+- 🧹 **Data Cleaning & Preprocessing**  
+- 📝 **Mini Case Studies & Scenario-Based Analysis**
 
-🔎 Exploratory Data Analysis (EDA)
+---
 
-📊 Dashboards & Visualizations
+## 📂 Dataset Access
 
-📈 Business and KPI Analysis
+The dataset used in some of the projects can be accessed here:  
+👉 https://docs.google.com/spreadsheets/d/1uceV2Olui1Pee4zIyfNwZG52kSGKrE-m5SPNjGaljNo/edit?usp=sharing
 
-🧹 Data Cleaning & Preprocessing
+---
 
-📝 Mini Case Studies
+## 📌 Preview Example
 
-If you wanna try it with yourself using this link to access the datasets https://docs.google.com/spreadsheets/d/1uceV2Olui1Pee4zIyfNwZG52kSGKrE-m5SPNjGaljNo/edit?usp=sharing
+Below is an example output from one of the analyses:
 
-the result: 
 ![Preview](./assets/top10countries.png)
+
+---
+
+## 📈 GitHub Activity & Profile Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zexeed1" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zexeed1&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zexeed1&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🏁 Closing Notes
+
+This portfolio is continuously updated as I complete more projects and refine my skills.  
+Thank you for visiting, and feel free to explore or contact me for collaboration opportunities.
