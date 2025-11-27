@@ -71,7 +71,7 @@ Preview of the analyses:
 📄 **Download PDF:**  
 [Click Here!](./reports/top10countries.pdf)
 
-![preview](.assets/MAU.png)
+![preview](.assets/mau.png)
 
 📄 **Download PDF:**  
 [Click Here!](./reports/mau_ch.pdf)
