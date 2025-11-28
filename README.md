@@ -34,10 +34,7 @@ I use a diverse set of tools throughout my projects, including:
 This repository is organized to reflect a real-world data workflow:
 
 ```
-├── assets/               # Images, charts, figures for README previews  
-├── datasets/             # Raw and cleaned datasets used in analyses  
-├── notebooks/            # Jupyter notebooks for each project  
-├── dashboards/           # Tableau / Power BI visualization files  
+├── assets/               # Images, charts, figures for README previews   
 └── reports/              # PDF summaries and key findings
 ```
 
